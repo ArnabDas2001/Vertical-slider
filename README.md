@@ -1,2 +1,2 @@
 # Vertical-slider
-a automatic vertical card slider using only html and css
+an automatic vertical card slider using only HTML and CSS
